@@ -123,7 +123,7 @@ def main():
     del deep_fm_model
     gc.collect()
 
-    xDeepFM模型
+    # xDeepFM模型
     x_deep_fm_model = xDeepFM(dense_feats, sparse_feats,
                               total_data,
                               train_x, train_label,
