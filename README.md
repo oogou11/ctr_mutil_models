@@ -1,5 +1,8 @@
 # ctr_mutil_models
 
+### Structure
+<img src="./pictures/DND-P.png">
+
 ### Introduction to Project Directory Structure
 
 * csv_data.zip  This contains the dataset in the experimental environment, which is a complete set.
