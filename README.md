@@ -2,7 +2,7 @@
 
 ### Describe
 The overall architecture diagram is shown in Figure 1
-<img src="https://photo.baidu.com/photo/web/album/3397395968949156685">
+<img src="https://pcsdata.baidu.com/thumbnail/be61b67ebg9e8355e7333b9546280dc7?fid=2575601788-16051585-61249502675068&rt=pr&sign=FDTAER-yUdy3dSFZ0SVxtzShv1zcMqd-gM075aLvmt2RVhXtCYRJ%2FnkI9pk%3D&expires=48h&chkv=0&chkbd=0&chkpc=&dp-logid=343582373426955500&dp-callid=0&time=1690959600&bus_no=26&size=c1600_u1600&quality=100&vuk=-&ft=video">
 
 The overall architecture of the integration of in-depth learning <a href="https://github.com/wzhe06/Ad-papers">CTR(Aggregation of Neural Network Models in the CTR Domain)</a> prediction model and Microservices architecture is shown in the figure above. DND-P is a Microservices protocol based on Django's integration with Nacos's protocol, which enables Nacos to detect the service where the CTR deep learning model is located in real time.
 
