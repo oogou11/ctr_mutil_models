@@ -29,6 +29,10 @@ DND-P is a Microservices protocol based on Django's integration with Nacos's pro
 6. `python x_deep_fm_model_new.py`
 You can also execute the man.py script to run the above three deep learning models sequentially.
 
+### Environment
+The environment for training DCN, DeepFM, and xDeepFM models is shown in Table 1:
+Table 1: Deep Learning CTR Model Environment
+ 
 ### Flask Web
 Put the trained models in the 'models' folder. If the 'models' folder does not exist, 
 first create a 'models' folder in the same directory as 'app.py' and place the trained deep learning models in it.
